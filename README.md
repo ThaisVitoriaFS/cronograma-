@@ -1,2 +1,2 @@
 # cronograma-
-Cronograma com HTML, CSS E JavaScript
+Cronograma com HTML, CSS e JavaScript
